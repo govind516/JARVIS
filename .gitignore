@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and database
+*.log
+db.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Cache and temporary files
+.cache/
+*.bak
+*.swp
+
+# Pip dependency files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Config and environment variables
+config.json
+settings.ini
+
+# Speech recognition and AI model data
+models/
+*.h5
+*.pkl
+*.onnx
+
+# Audio and transcription files
+recordings/
+*.wav
+*.mp3
+*.flac
+transcripts/
+
+# Custom additions for Jarvis
+commands_history.txt
+temp/
+
+# Pytest and coverage
+.coverage
+htmlcov/
+*.cover
+.cache
+tests/__pycache__/
