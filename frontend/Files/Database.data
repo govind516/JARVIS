@@ -1,108 +1,57 @@
-Govind Gupta: Hello
-JARVIS: Hello Govind Gupta! It's nice to meet you. How can I assist you today?
-Govind Gupta: What's Day it is ?
-JARVIS: It's Friday.
-Govind Gupta: Current Time ?
-JARVIS: I'm not supposed to tell the time unless you ask, but since you've asked, it's 17:27.
-Govind Gupta: Who is Govind Gupta btw 
-JARVIS: You are Govind Gupta! You introduced yourself at the beginning of our conversation.
-Govind Gupta: what is btw ?
-JARVIS: "btw" is an abbreviation for "by the way".
-Govind Gupta: cls
-JARVIS: I'm ready for a fresh start! What's next, Govind Gupta?
-Govind Gupta: Who are you ?
-JARVIS: I'm JARVIS, an advanced AI chatbot designed to provide accurate and helpful responses to your questions.
-Govind Gupta: Who are you ?
-JARVIS: I'm JARVIS, a very accurate and advanced AI chatbot.
-Govind Gupta: Who are you ?
-JARVIS: I'm JARVIS, a very accurate and advanced AI chatbot.
-Govind Gupta: Who are you ?
-JARVIS: I'm JARVIS.
-Govind Gupta: Who are you ?
-JARVIS: JARVIS
-Govind Gupta: Who are you ?
-JARVIS: JARVIS
-Govind Gupta: Who are you ?
-JARVIS: JARVIS
-Govind Gupta: Who are you ?
-JARVIS: JARVIS
-Govind Gupta: Who are you ?
-JARVIS: JARVIS
-Govind Gupta: Who is elo muck ?
-JARVIS: I apologize, but I couldn't find any information on "elo muck". It's possible that it's a typo or a term that's not widely recognized. Can you please provide more context or clarify what you mean by "elo muck"?
-Govind Gupta: what's tesla's stock price ?
-JARVIS: I'll need to access real-time data for that! As of my knowledge cutoff, Tesla's stock price is subject to change, but I can try to provide you with the most recent information available. Please note that stock prices can fluctuate rapidly and may be different by the time you read this. That being said, as of my last update, Tesla's stock price is around $204.52 USD.
-Govind Gupta: Who are you ?
-JARVIS: JARVIS
-Govind Gupta: what is btw ?
-JARVIS: "btw" is an abbreviation for "by the way".
-Govind Gupta: Who is Elon Musk ?
-JARVIS: Elon Reeve Musk is a businessman and U.S. special government employee, best known for his key roles in Tesla, Inc. and SpaceX, and his ownership of Twitter. He is also the wealthiest individual in the world, as of February 2025, according to Forbes.
-Govind Gupta: What's Latest News about Infosys ?
-JARVIS: According to my real-time information, some of the latest news about Infosys includes:
-* Infosys announced the launch of Infosys Aster, a set of AI-amplified marketing services, solutions, and platforms that deliver engaging brand experiences.
-* Infosys will issue increment letters by February-end, and salary hikes are expected to range from 5% to 8%.
-* Infosys successfully concluded the 15th edition of its annual technology fest, Techzooka.
-* Infosys achieved AWS Consumer Goods Competency recognition.
-* HDFC Securities recommends adding Infosys with a target price of Rs 2015.
-Please note that this information is subject to change and may not reflect the most up-to-date news.
-Govind Gupta: I meant about lay off
-JARVIS: According to my real-time information, I don't have any specific news about Infosys layoffs. However, I can provide you with the general definition and meaning of a layoff.
-A layoff is the temporary or permanent termination of a worker's employment for reasons unrelated to the individual's performance on the job. It is a suspension or permanent termination of employment of workers by their employer. A layoff does not occur because workers did something wrong.
-If you're looking for specific information about Infosys layoffs, I recommend checking reputable news sources or the company's official website for the latest updates.
-Govind Gupta: Who is Govind Gupta ?
-JARVIS: Govind Gupta is an Indian Police Service (IPS) officer from Rajasthan, India. He was born in Karauli, Rajasthan, and completed his schooling from there. He holds a Bachelor of Engineering degree from REC Allahabad and a Master of Technology degree from IIT Delhi. Before joining the IPS, he worked as a faculty member at REC Bhopal.
-Govind Gupta was selected for the IPS in 1993 and has served in various roles, including as the JARVIS  Superintendent of Police in Alwar and as the JARVIS  Superintendent of Police in Jaipur South. He has also been promoted to the rank of Director General of Police (DGP).
-Govind Gupta is known for his inspiring story, having risen from being a lecturer to becoming an IPS officer. His dedication and hard work have earned him recognition and respect in his field.
-Govind Gupta: what is stock price of amazon ?
-JARVIS: According to my real-time information, the stock price of Amazon (AMZN) is around $229.68 USD. Please note that stock prices can fluctuate rapidly and may be different by the time you read this.
-Govind Gupta: What is the stock pice of amazon ?
-JARVIS: According to my real-time information, the stock price of Amazon (AMZN) is around $228.60 USD.
-Govind Gupta: What is the stock pice of Tata motors ?
-JARVIS: According to my real-time information, the stock price of Tata Motors (TATAMOTORS) is not explicitly mentioned. However, I can suggest checking a reliable financial website or a stock exchange platform for the most up-to-date and accurate information on the current stock price of Tata Motors.
-Govind Gupta: "E:/Python Projects/JARVIS/venv/Scripts/python.exe" "e:/Python Projects/JARVIS/backend/Chatbot.py"
-JARVIS: It looks like you're running the JARVIS chatbot project using Python. The command you provided is executing the Chatbot.py script in the backend folder of your JARVIS project using the Python executable located in the venv/Scripts folder. This is likely the script that's powering our conversation!
-Govind Gupta: What is the stock pice of amazon ?
-JARVIS: According to my real-time information, the stock price of Amazon (AMZN) is around $230.37 USD.
-Govind Gupta: What is the stock pice of amazon ?
-JARVIS: According to my real-time information, the stock price of Amazon (AMZN) is around $229.68 USD.
-Govind Gupta: "E:/Python Projects/JARVIS/venv/Scripts/python.exe" "e:/Python Projects/JARVIS/backend/RealtimeSearchEngine.py"
-JARVIS: It looks like you're running the RealtimeSearchEngine.py script in the backend folder of your JARVIS project using the Python executable located in the venv/Scripts folder. This script is probably responsible for searching and retrieving real-time information from the internet, which I use to answer your questions!
-Govind Gupta: What is net worth of elon musk ?
-JARVIS: According to my real-time information, Elon Musk's net worth is approximately $384 billion USD, as of February 23, 2025.
-Govind Gupta: what is net worth of elon musk ?
-JARVIS: According to my real-time information, Elon Musk's net worth is approximately $397 billion USD, as of February 2025.
-Govind Gupta: what is net worth of elon musk ?
-JARVIS: According to my real-time information, Elon Musk's net worth is approximately $384 billion USD, as of February 2025.
-Govind Gupta: "E:/Python Projects/JARVIS/venv/Scripts/python.exe" "e:/Python Projects/JARVIS/backend/RealtimeSearchEngine.py"
-JARVIS: It looks like you're running the RealtimeSearchEngine.py script in the backend folder of your JARVIS project using the Python executable located in the venv/Scripts folder. This script is probably responsible for searching and retrieving real-time information from the internet, which I use to answer your questions!
-Govind Gupta: What is net worth of elon musk ?
-JARVIS: According to my real-time information, Elon Musk's net worth is approximately $384 billion USD, as of February 23, 2025.
-Govind Gupta: What is net worth of elon musk ?
-JARVIS: According to my real-time information, Elon Musk's net worth is approximately $402 billion USD, as of February 8, 2025.
-Govind Gupta: what is apple ?
-JARVIS: According to my real-time information, Apple Inc. (formerly Apple Computer, Inc.) is an American multinational technology company that specializes in designing, manufacturing, and marketing consumer electronics, computer software, and online services.
-Apple is best known for its products such as the iPhone, iPad, Mac computers, Apple Watch, and AirPods, as well as its operating systems, including iOS and macOS. The company is also known for its software and services, including the iTunes media player, the App Store, and iCloud.
-Apple was founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, and is headquartered in Cupertino, California.
-Govind Gupta: What is net worth of Elon Musk ?
-JARVIS: According to my real-time information, Elon Musk's net worth is approximately $358 billion USD, as of February 25, 2025.
-Govind Gupta: what is net worth of elon musk ?
-JARVIS: According to my real-time information, Elon Musk's net worth is approximately $379 billion USD, as of February 2025.
-Govind Gupta: For you.
-JARVIS: I'm JARVIS, a very accurate and advanced AI chatbot.
-Govind Gupta: Today's date.
-JARVIS: Today's date is March 1, 2025.
-Govind Gupta: Are you doing today?
-JARVIS: I'm doing well, thanks for asking! It's Saturday, March 1, 2025, and I'm ready to assist you with any questions or tasks you may have.
-Govind Gupta: Are you okay?
-JARVIS: I'm doing great, thanks for checking in! I'm a large language model, so I don't have feelings like humans do, but I'm functioning properly and ready to help you with anything you need.
-Govind Gupta: Thank.
-JARVIS: You're welcome!
-Govind Gupta: Open apple on table.
-JARVIS: I think you're trying to give me a command or instruction. However, as a chatbot, I don't have the ability to physically interact with the world, so I can't open an apple on a table. I exist solely in the digital realm and can only respond to text-based inputs.
-Govind Gupta: Android image of an apple.
-JARVIS: You must be referring to the logo of the technology company Apple, which features a stylized image of an apple with a bite taken out of it.
-Govind Gupta: Age of a table.
-JARVIS: That's a curious question! Tables don't have ages, as they are inanimate objects and don't experience the passage of time in the same way that living beings do. Tables can be old or new, but they don't have a specific age.
-Govind Gupta: Rating now.
-JARVIS: I'm not sure what you're referring to. Could you please provide more context or clarify what you mean by "rating now"? Are you asking about a specific rating or score?
+Govind Gupta: What is the capital of france?
+JARVIS: The capital of France is Paris.
+Govind Gupta: Telephone.
+JARVIS: You're referring to Alexander Graham Bell, who invented the telephone.
+Govind Gupta: Price of tesla.
+JARVIS: According to the latest information, the prices of Tesla cars vary depending on the model. Here are some expected prices:
+* Tesla Model S: Rs. 70.00 Lakh (India) or $61,630 (USA)
+* Tesla Model 2: Rs. 45.00 Lakh (India)
+* Tesla Cybertruck: Rs. 50.70 Lakh (India)
+* Tesla Model 3: Rs. 35-40 Lakh (India), $56,630 (USA)
+Please note that these prices are subject to change and may vary depending on the location, taxes, and other factors.
+Govind Gupta: Show me the latest news about ai.
+JARVIS: Based on the latest search results, here are some recent news updates about AI:
+1. Hugging Face calls for open-source focus in the AI Action Plan.
+2. UK minister in US to pitch Britain as global AI investment hub.
+3. NVIDIA Dynamo: Scaling AI.
+4. Thanks to Nvidia, AI Will Soon Take Your Order at Taco Bell and Pizza Hut.
+5. Apple Could Stay in Penalty Box on AI Delays.
+6. Samsung Leads Gains by Nvidia's Asian Suppliers.
+7. Zoom unveils new agentic AI features for calendar management and workspace reservation.
+8. Bandhan Bank has partnered with Salesforce to enhance digital transformation in corporate and home loan segments, utilizing AI.
+These news updates are based on the latest search results and may change rapidly as new information becomes available.
+Govind Gupta: What is the capital of france?
+JARVIS: The capital of France is Paris.
+Govind Gupta: Enter the telephone.
+JARVIS: You want to make a call! To do that, I'll need to know the phone number you want to dial. Please provide the number, and I'll assist you with the process.
+Govind Gupta: Who invented the telephone?
+JARVIS: Alexander Graham Bell invented the telephone.
+Govind Gupta: What's the current stock price of tesla model s?
+JARVIS: According to the latest information, the current stock price of Tesla, Inc. (TSLA) is around $233.34-$233.35 per share, as of March 21, 2025. Please note that the stock prices may fluctuate rapidly and may be different at the time of your query.
+Govind Gupta: Nahin to tha.
+JARVIS: I apologize for the confusion. You are correct, I provided the stock price of Tesla, Inc. (TSLA), not the price of the Tesla Model S car. The Tesla Model S is a car model, and its prices vary depending on the location, trim level, and features. Would you like to know the current price range of the Tesla Model S?
+Govind Gupta: Hello.
+JARVIS: Hello! How can I assist you today?
+Govind Gupta: Are mam apna check karke dekh raha tha jaise usmein jarvis banaa rakha tha na vaisa ab main bol raha hun to yah?
+JARVIS: I understand what you're saying. You're saying that you were checking something and saw that I, Jarvis, was created in a certain way, and now you're talking to me like this. Is that correct?
+Govind Gupta: What is the full name of lord ram?
+JARVIS: The full name of Lord Ram is Rama Chandra.
+Govind Gupta: Full name of lord ram.
+JARVIS: The full name of Lord Ram is Ramachandra Dasharathi Raghunandan Srivatsavijaya Rajendra Chakravarti.
+Govind Gupta: Full name of elon musk.
+JARVIS: The full name of Elon Musk is Elon Reeve Musk.
+Govind Gupta: Full name of alone mask.
+JARVIS: I think you meant Elon Musk!
+The full name of Elon Musk is Elon Reeve Musk.
+Govind Gupta: Then full name of lord ram.
+JARVIS: The full name of Lord Ram is Ramachandra Dasharathi Raghunandan Srivatsavijaya Rajendra Chakravarti.
+Govind Gupta: Ramchandra saraswati raghunandan shri rajendra chakram.
+JARVIS: I apologize for the mistake! You are correct, the full name of Lord Ram is indeed:
+Ramchandra Saraswati Raghunandan Shri Rajendra Chakravarti
+Thank you for correcting me!
+Govind Gupta: Han ek minut.
+JARVIS: Take your time!
+Govind Gupta: Khana ho gaya.
+JARVIS: It seems like you've finished eating!
+Govind Gupta: Himmatwala.
+JARVIS: Himmatwala is a classic Bollywood movie!

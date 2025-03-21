@@ -1,62 +1,25 @@
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
-*$py.class
+*.pyo
+*.pyd
+*.db
+*.sqlite3
 
-# Virtual environment
-venv/
-.env/
+# Environment variables
 .env
 
-# IDE and Editor files
+# Data files
+data/
+
+# IDE files
 .vscode/
 .idea/
-*.iml
 
-# OS-specific files
-.DS_Store
-Thumbs.db
-
-# Logs and database
+# Logs
 *.log
-db.sqlite3
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Cache and temporary files
-.cache/
-*.bak
-*.swp
-
-# Pip dependency files
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Config and environment variables
-config.json
-settings.ini
-
-# Speech recognition and AI model data
-models/
-*.h5
-*.pkl
-*.onnx
-
-# Audio and transcription files
-recordings/
-*.wav
-*.mp3
-*.flac
-transcripts/
-
-# Custom additions for Jarvis
-commands_history.txt
-temp/
-
-# Pytest and coverage
-.coverage
-htmlcov/
-*.cover
-.cache
-tests/__pycache__/
+# Byte-compiled / optimized / DLL files
+*.egg-info/
+dist/
+build/
